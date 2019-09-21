@@ -1,0 +1,4057 @@
+fileFormatVersion: 2
+guid: d1fc42f32c4cbab4587a2ef6bb3d5b3b
+timeCreated: 1505426629
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Exaggeration_0
+    21300002: Exaggeration_1
+    21300004: Exaggeration_2
+    21300006: Exaggeration_3
+    21300008: Exaggeration_4
+    21300010: Exaggeration_5
+    21300012: Exaggeration_6
+    21300014: Exaggeration_7
+    21300016: Exaggeration_8
+    21300018: Exaggeration_9
+    21300020: Exaggeration_10
+    21300022: Exaggeration_11
+    21300024: Exaggeration_12
+    21300026: Exaggeration_13
+    21300028: Exaggeration_14
+    21300030: Exaggeration_15
+    21300032: Exaggeration_16
+    21300034: Exaggeration_17
+    21300036: Exaggeration_18
+    21300038: Exaggeration_19
+    21300040: Exaggeration_20
+    21300042: Exaggeration_21
+    21300044: Exaggeration_22
+    21300046: Exaggeration_23
+    21300048: Exaggeration_24
+    21300050: Exaggeration_25
+    21300052: Exaggeration_26
+    21300054: Exaggeration_27
+    21300056: Exaggeration_28
+    21300058: Exaggeration_29
+    21300060: Exaggeration_30
+    21300062: Exaggeration_31
+    21300064: Exaggeration_32
+    21300066: Exaggeration_33
+    21300068: Exaggeration_34
+    21300070: Exaggeration_35
+    21300072: Exaggeration_36
+    21300074: Exaggeration_37
+    21300076: Exaggeration_38
+    21300078: Exaggeration_39
+    21300080: Exaggeration_40
+    21300082: Exaggeration_41
+    21300084: Exaggeration_42
+    21300086: Exaggeration_43
+    21300088: Exaggeration_44
+    21300090: Exaggeration_45
+    21300092: Exaggeration_46
+    21300094: Exaggeration_47
+    21300096: Exaggeration_48
+    21300098: Exaggeration_49
+    21300100: Exaggeration_50
+    21300102: Exaggeration_51
+    21300104: Exaggeration_52
+    21300106: Exaggeration_53
+    21300108: Exaggeration_54
+    21300110: Exaggeration_55
+    21300112: Exaggeration_56
+    21300114: Exaggeration_57
+    21300116: Exaggeration_58
+    21300118: Exaggeration_59
+    21300120: Exaggeration_60
+    21300122: Exaggeration_61
+    21300124: Exaggeration_62
+    21300126: Exaggeration_63
+    21300128: Exaggeration_64
+    21300130: Exaggeration_65
+    21300132: Exaggeration_66
+    21300134: Exaggeration_67
+    21300136: Exaggeration_68
+    21300138: Exaggeration_69
+    21300140: Exaggeration_70
+    21300142: Exaggeration_71
+    21300144: Exaggeration_72
+    21300146: Exaggeration_73
+    21300148: Exaggeration_74
+    21300150: Exaggeration_75
+    21300152: Exaggeration_76
+    21300154: Exaggeration_77
+    21300156: Exaggeration_78
+    21300158: Exaggeration_79
+    21300160: Exaggeration_80
+    21300162: Exaggeration_81
+    21300164: Exaggeration_82
+    21300166: Exaggeration_83
+    21300168: Exaggeration_84
+    21300170: Exaggeration_85
+    21300172: Exaggeration_86
+    21300174: Exaggeration_87
+    21300176: Exaggeration_88
+    21300178: Exaggeration_89
+    21300180: Exaggeration_90
+    21300182: Exaggeration_91
+    21300184: Exaggeration_92
+    21300186: Exaggeration_93
+    21300188: Exaggeration_94
+    21300190: Exaggeration_95
+    21300192: Exaggeration_96
+    21300194: Exaggeration_97
+    21300196: Exaggeration_98
+    21300198: Exaggeration_99
+    21300200: Exaggeration_100
+    21300202: Exaggeration_101
+    21300204: Exaggeration_102
+    21300206: Exaggeration_103
+    21300208: Exaggeration_104
+    21300210: Exaggeration_105
+    21300212: Exaggeration_106
+    21300214: Exaggeration_107
+    21300216: Exaggeration_108
+    21300218: Exaggeration_109
+    21300220: Exaggeration_110
+    21300222: Exaggeration_111
+    21300224: Exaggeration_112
+    21300226: Exaggeration_113
+    21300228: Exaggeration_114
+    21300230: Exaggeration_115
+    21300232: Exaggeration_116
+    21300234: Exaggeration_117
+    21300236: Exaggeration_118
+    21300238: Exaggeration_119
+    21300240: Exaggeration_120
+    21300242: Exaggeration_121
+    21300244: Exaggeration_122
+    21300246: Exaggeration_123
+    21300248: Exaggeration_124
+    21300250: Exaggeration_125
+    21300252: Exaggeration_126
+    21300254: Exaggeration_127
+    21300256: Exaggeration_128
+    21300258: Exaggeration_129
+    21300260: Exaggeration_130
+    21300262: Exaggeration_131
+    21300264: Exaggeration_132
+    21300266: Exaggeration_133
+    21300268: Exaggeration_134
+    21300270: Exaggeration_135
+    21300272: Exaggeration_136
+    21300274: Exaggeration_137
+    21300276: Exaggeration_138
+    21300278: Exaggeration_139
+    21300280: Exaggeration_140
+    21300282: Exaggeration_141
+    21300284: Exaggeration_142
+    21300286: Exaggeration_143
+    21300288: Exaggeration_144
+    21300290: Exaggeration_145
+    21300292: Exaggeration_146
+    21300294: Exaggeration_147
+    21300296: Exaggeration_148
+    21300298: Exaggeration_149
+    21300300: Exaggeration_150
+    21300302: Exaggeration_151
+    21300304: Exaggeration_152
+    21300306: Exaggeration_153
+    21300308: Exaggeration_154
+    21300310: Exaggeration_155
+    21300312: Exaggeration_156
+    21300314: Exaggeration_157
+    21300316: Exaggeration_158
+    21300318: Exaggeration_159
+    21300320: Exaggeration_160
+    21300322: Exaggeration_161
+    21300324: Exaggeration_162
+    21300326: Exaggeration_163
+    21300328: Exaggeration_164
+    21300330: Exaggeration_165
+    21300332: Exaggeration_166
+    21300334: Exaggeration_167
+    21300336: Exaggeration_168
+    21300338: Exaggeration_169
+    21300340: Exaggeration_170
+    21300342: Exaggeration_171
+    21300344: Exaggeration_172
+    21300346: Exaggeration_173
+    21300348: Exaggeration_174
+    21300350: Exaggeration_175
+    21300352: Exaggeration_176
+    21300354: Exaggeration_177
+    21300356: Exaggeration_178
+    21300358: Exaggeration_179
+    21300360: Exaggeration_180
+    21300362: Exaggeration_181
+    21300364: Exaggeration_182
+    21300366: Exaggeration_183
+    21300368: Exaggeration_184
+    21300370: Exaggeration_185
+    21300372: Exaggeration_186
+    21300374: Exaggeration_187
+    21300376: Exaggeration_188
+    21300378: Exaggeration_189
+    21300380: Exaggeration_190
+    21300382: Exaggeration_191
+    21300384: Exaggeration_192
+    21300386: Exaggeration_193
+    21300388: Exaggeration_194
+    21300390: Exaggeration_195
+    21300392: Exaggeration_196
+    21300394: Exaggeration_197
+    21300396: Exaggeration_198
+    21300398: Exaggeration_199
+    21300400: Exaggeration_200
+    21300402: Exaggeration_201
+    21300404: Exaggeration_202
+    21300406: Exaggeration_203
+    21300408: Exaggeration_204
+    21300410: Exaggeration_205
+    21300412: Exaggeration_206
+    21300414: Exaggeration_207
+    21300416: Exaggeration_208
+    21300418: Exaggeration_209
+    21300420: Exaggeration_210
+    21300422: Exaggeration_211
+    21300424: Exaggeration_212
+    21300426: Exaggeration_213
+    21300428: Exaggeration_214
+    21300430: Exaggeration_215
+    21300432: Exaggeration_216
+    21300434: Exaggeration_217
+    21300436: Exaggeration_218
+    21300438: Exaggeration_219
+    21300440: Exaggeration_220
+    21300442: Exaggeration_221
+    21300444: Exaggeration_222
+    21300446: Exaggeration_223
+    21300448: Exaggeration_224
+    21300450: Exaggeration_225
+    21300452: Exaggeration_226
+    21300454: Exaggeration_227
+    21300456: Exaggeration_228
+    21300458: Exaggeration_229
+    21300460: Exaggeration_230
+    21300462: Exaggeration_231
+    21300464: Exaggeration_232
+    21300466: Exaggeration_233
+    21300468: Exaggeration_234
+    21300470: Exaggeration_235
+    21300472: Exaggeration_236
+    21300474: Exaggeration_237
+    21300476: Exaggeration_238
+    21300478: Exaggeration_239
+    21300480: Exaggeration_240
+    21300482: Exaggeration_241
+    21300484: Exaggeration_242
+    21300486: Exaggeration_243
+    21300488: Exaggeration_244
+    21300490: Exaggeration_245
+    21300492: Exaggeration_246
+    21300494: Exaggeration_247
+    21300496: Exaggeration_248
+    21300498: Exaggeration_249
+    21300500: Exaggeration_250
+    21300502: Exaggeration_251
+    21300504: Exaggeration_252
+    21300506: Exaggeration_253
+    21300508: Exaggeration_254
+    21300510: Exaggeration_255
+    21300512: Exaggeration_256
+    21300514: Exaggeration_257
+    21300516: Exaggeration_258
+    21300518: Exaggeration_259
+    21300520: Exaggeration_260
+    21300522: Exaggeration_261
+    21300524: Exaggeration_262
+    21300526: Exaggeration_263
+    21300528: Exaggeration_264
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Exaggeration_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1175
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1175
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1175
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1175
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_4
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1175
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_5
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1175
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1175
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_7
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1175
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_8
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1175
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_9
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1175
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_10
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1175
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_11
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1175
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_12
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1175
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_13
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1175
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_14
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1175
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_15
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1175
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_16
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1175
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_17
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1173
+        width: 288
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1080
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_19
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1080
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_20
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1080
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_21
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1080
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_22
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1080
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_23
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1080
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_24
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1080
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_25
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1082
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_26
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1080
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_27
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1080
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_28
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1085
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_29
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1105
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_30
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1095
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_31
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1080
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_32
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1080
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_33
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1080
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_34
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1080
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_35
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1081
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_36
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1081
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_37
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1081
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_38
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1081
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_39
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1081
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_40
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1081
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_41
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1081
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 975
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_43
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 975
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_44
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 975
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_45
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 985
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_46
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1000
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_47
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1008
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_48
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 995
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_49
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 980
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_50
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 975
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_51
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 975
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_52
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 975
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_53
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 975
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_54
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 975
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_55
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 975
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_56
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 975
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_57
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 975
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_58
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 975
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_59
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 975
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_60
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 975
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_61
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 975
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_62
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 895
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_63
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 895
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_64
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 895
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_65
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 895
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_66
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 894
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_67
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 895
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_68
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 895
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_69
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 895
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_70
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 895
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_71
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 895
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_72
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 895
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_73
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 895
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_74
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 895
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_75
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 895
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_76
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 820
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_77
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 810
+        width: 35
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_78
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 871
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_79
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 863
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_80
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 858
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_81
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 808
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_82
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 863
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_83
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 854
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_84
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 806
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_85
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 807
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_86
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 810
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_87
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 810
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_88
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 810
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_89
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 810
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_90
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 810
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_91
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 810
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_92
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 810
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_93
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 810
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_94
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 810
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_95
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 810
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_96
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 807
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_97
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 807
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_98
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 803
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_99
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 803
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_100
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 806
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_101
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 808
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_102
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 806
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_103
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 806
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_104
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 725
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_105
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 725
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_106
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 725
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_107
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 725
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_108
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 725
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_109
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 725
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_110
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 725
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_111
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 725
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_112
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 725
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_113
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 725
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_114
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 725
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_115
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 725
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_116
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 725
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_117
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 725
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_118
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 725
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_119
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 725
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_120
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 725
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_121
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 725
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_122
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 725
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_123
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 725
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_124
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 725
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_125
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 725
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_126
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 725
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_127
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 725
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_128
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 725
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_129
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 635
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_130
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 635
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_131
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 635
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_132
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 635
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_133
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 635
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_134
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 635
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_135
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 635
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_136
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 635
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_137
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 635
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_138
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 635
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_139
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 635
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_140
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 635
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_141
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 635
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_142
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 657
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_143
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 635
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_144
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 659
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_145
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 635
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_146
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 635
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_147
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 535
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_148
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 535
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_149
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 535
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_150
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 535
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_151
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 535
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_152
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 540
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_153
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 565
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_154
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 543
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_155
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 565
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_156
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 544
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_157
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 535
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_158
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 535
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_159
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 542
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_160
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 535
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_161
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 535
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_162
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 535
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_163
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 537
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_164
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 543
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_165
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 557
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_166
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 550
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_167
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 541
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_168
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 535
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_169
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 535
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_170
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 535
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_171
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 535
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_172
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 535
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_173
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 535
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_174
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 535
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_175
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 534
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_176
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 459
+        width: 60
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_177
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 438
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_178
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 422
+        width: 24
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_179
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 439
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_180
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 447
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_181
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 445
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_182
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 462
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_183
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 440
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_184
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 434
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_185
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 435
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_186
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 430
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_187
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 425
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_188
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 350
+        width: 58
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_189
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 350
+        width: 58
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_190
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 350
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_191
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 350
+        width: 62
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_192
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 350
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_193
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 349
+        width: 58
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_194
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 350
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_195
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 350
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_196
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 350
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_197
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 350
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_198
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 350
+        width: 61
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_199
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 350
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_200
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 350
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_201
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 350
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_202
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 357
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_203
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 350
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_204
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 353
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_205
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 353
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_206
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 354
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_207
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 356
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_208
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 350
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_209
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 350
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_210
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 350
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_211
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 350
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_212
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 350
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_213
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_214
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 261
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_215
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 278
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_216
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 265
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_217
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 250
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_218
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 245
+        width: 60
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_219
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 245
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_220
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 243
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_221
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 244
+        width: 61
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_222
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 244
+        width: 61
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_223
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 245
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_224
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 245
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_225
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 245
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_226
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 105
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_227
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 105
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_228
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 105
+        width: 66
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_229
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 105
+        width: 64
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_230
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_231
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 165
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_232
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 147
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_233
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 125
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_234
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_235
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 120
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_236
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 120
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_237
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 120
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_238
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 120
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_239
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 105
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_240
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 20
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_241
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 20
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_242
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 20
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_243
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 20
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_244
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 20
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_245
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 20
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_246
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 20
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_247
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 7
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_248
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 7
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_249
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 7
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_250
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 6
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_251
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 6
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_252
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 6
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_253
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 8
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_254
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 7
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_255
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 6
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_256
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 7
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_257
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 7
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_258
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 0
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_259
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 0
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_260
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 0
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_261
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 20
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_262
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 20
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_263
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 20
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exaggeration_264
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 20
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

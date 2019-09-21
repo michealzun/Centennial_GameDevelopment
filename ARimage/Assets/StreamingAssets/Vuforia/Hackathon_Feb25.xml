@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Miss-Lou_-Fi-Wi-Lanuage" size="0.150000 0.204514" />
+    <ImageTarget name="Ring-Ding" size="0.200000 0.118563" />
+    <ImageTarget name="Miss-and-the-Early-theatre-" size="0.200000 0.125000" />
+    <ImageTarget name="Miss-Lou-Book-cover" size="0.200000 0.150094" />
+  </Tracking>
+</QCARConfig>

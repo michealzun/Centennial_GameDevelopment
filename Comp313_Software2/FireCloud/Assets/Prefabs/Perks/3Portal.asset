@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00fea74d95b7b564a848a6da0cb1771c, type: 3}
+  m_Name: 3Portal
+  m_EditorClassIdentifier: 
+  PerkID: 3
+  Name: Portal
+  Description: Place down a portal
+  Thumbnail: {fileID: 21300000, guid: d7048d0c8893eb74393ef73e52133157, type: 3}
+  PerkType: 1
+  BaseCooldown: 10
+  SFXOnCast: {fileID: 8300000, guid: 37db355c5bbc7e04190a507b164e0948, type: 3}
+  Behaviours:
+  - {fileID: 11400000, guid: f0564ce205d248d47950cf8b660ed202, type: 2}

@@ -1,0 +1,972 @@
+fileFormatVersion: 2
+guid: 47038fabc4e1080479ab252f2fb28cca
+timeCreated: 1502041402
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ken_0
+    21300002: ken_1
+    21300004: ken_2
+    21300006: ken_3
+    21300008: ken_4
+    21300010: ken_5
+    21300012: ken_6
+    21300014: ken_7
+    21300016: ken_8
+    21300018: ken_9
+    21300020: ken_10
+    21300022: ken_11
+    21300024: ken_12
+    21300026: ken_13
+    21300028: ken_14
+    21300030: ken_15
+    21300032: ken_16
+    21300034: ken_17
+    21300036: ken_18
+    21300038: ken_19
+    21300040: ken_20
+    21300042: ken_21
+    21300044: ken_22
+    21300046: ken_23
+    21300048: ken_24
+    21300050: ken_25
+    21300052: ken_26
+    21300054: ken_27
+    21300056: ken_28
+    21300058: ken_29
+    21300060: ken_30
+    21300062: ken_31
+    21300064: ken_32
+    21300066: ken_33
+    21300068: ken_34
+    21300070: ken_35
+    21300072: ken_36
+    21300074: ken_37
+    21300076: ken_38
+    21300078: ken_39
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ken_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 720
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 720
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 720
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 640
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_6
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 640
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 640
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 560
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 560
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_12
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 480
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_13
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 480
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_14
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 480
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_15
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 480
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 400
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_19
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 320
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_20
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 320
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_21
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 320
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_23
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 240
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_24
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 240
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_25
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 240
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_26
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 240
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_28
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 160
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_29
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 160
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_30
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 160
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_31
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 160
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_33
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 80
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_34
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 80
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_35
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 80
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_36
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 80
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_37
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 80
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_38
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 80
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ken_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -201, y: -344}
+      - {x: -211, y: -344}
+      - {x: -225, y: -357}
+      - {x: -230, y: -380}
+      - {x: -230, y: -400}
+      - {x: -193, y: -400}
+      - {x: -191, y: -397}
+      - {x: -191, y: -353}
+      - {x: -192, y: -347}
+    - - {x: -177, y: -78}
+      - {x: -177, y: -322}
+      - {x: -143, y: -322}
+      - {x: -117, y: -295}
+      - {x: -117, y: -113}
+      - {x: -131, y: -78}
+    - - {x: 133, y: -238}
+      - {x: 119, y: -248}
+      - {x: 119, y: -297}
+      - {x: 122, y: -322}
+      - {x: 147, y: -322}
+      - {x: 156, y: -298}
+      - {x: 156, y: -240}
+      - {x: 151, y: -238}
+    - - {x: -33, y: -158}
+      - {x: -106, y: -158}
+      - {x: -106, y: -254}
+      - {x: -93, y: -320}
+      - {x: -68, y: -320}
+      - {x: -67, y: -319}
+      - {x: -54, y: -288}
+      - {x: -53, y: -279}
+      - {x: -33, y: -202}
+    - - {x: 61, y: -238}
+      - {x: 53, y: -251}
+      - {x: 53, y: -317}
+      - {x: 54, y: -320}
+      - {x: 71, y: -320}
+      - {x: 86, y: -305}
+      - {x: 86, y: -238}
+    - - {x: -194, y: -319}
+      - {x: -194, y: -246}
+      - {x: -200, y: -242}
+      - {x: -211, y: -242}
+      - {x: -223, y: -245}
+      - {x: -226, y: -252}
+      - {x: -228, y: -262}
+      - {x: -228, y: -319}
+      - {x: -219, y: -319}
+      - {x: -214, y: -313}
+      - {x: -209, y: -318}
+      - {x: -204, y: -319}
+    - - {x: 228, y: -319}
+      - {x: 228, y: -270}
+      - {x: 227, y: -247}
+      - {x: 221, y: -242}
+      - {x: 194, y: -242}
+      - {x: 194, y: -319}
+      - {x: 203, y: -319}
+      - {x: 208, y: -313}
+      - {x: 214, y: -317}
+      - {x: 218, y: -319}
+    - - {x: -29, y: -170}
+      - {x: -29, y: -252}
+      - {x: -27, y: -266}
+      - {x: -20, y: -309}
+      - {x: -1, y: -309}
+      - {x: 22, y: -290}
+      - {x: 34, y: -241}
+      - {x: 34, y: -188}
+      - {x: 21, y: -170}
+    - - {x: -191, y: -79}
+      - {x: -222, y: -79}
+      - {x: -237, y: -104}
+      - {x: -240, y: -141}
+      - {x: -240, y: -219}
+      - {x: -224, y: -242}
+      - {x: -203, y: -242}
+      - {x: -198, y: -229}
+      - {x: -187, y: -159}
+      - {x: -187, y: -83}
+    - - {x: 49, y: -167}
+      - {x: 49, y: -235}
+      - {x: 53, y: -238}
+      - {x: 60, y: -235}
+      - {x: 62, y: -233}
+      - {x: 77, y: -242}
+      - {x: 91, y: -242}
+      - {x: 91, y: -212}
+      - {x: 82, y: -172}
+      - {x: 77, y: -167}
+    - - {x: -98, y: -78}
+      - {x: -106, y: -86}
+      - {x: -106, y: -129}
+      - {x: -93, y: -162}
+      - {x: -60, y: -162}
+      - {x: -35, y: -98}
+      - {x: -35, y: -78}
+    - - {x: 19, y: -104}
+      - {x: 3, y: -78}
+      - {x: -9, y: -78}
+      - {x: -24, y: -91}
+      - {x: -24, y: -119}
+      - {x: -18, y: -162}
+      - {x: 2, y: -162}
+      - {x: 4, y: -161}
+      - {x: 17, y: -143}
+      - {x: 19, y: -124}
+    - - {x: 67, y: -79}
+      - {x: 53, y: -87}
+      - {x: 53, y: -162}
+      - {x: 94, y: -162}
+      - {x: 94, y: -79}
+    - - {x: -12, y: -16}
+      - {x: -18, y: -25}
+      - {x: -18, y: -27}
+      - {x: -17, y: -29}
+      - {x: -14, y: -30}
+      - {x: -9, y: -27}
+      - {x: -7, y: -24}
+      - {x: -7, y: -26}
+      - {x: -11, y: -30}
+      - {x: -15, y: -31}
+      - {x: -18, y: -36}
+      - {x: -18, y: -39}
+      - {x: -16, y: -40}
+      - {x: -11, y: -40}
+      - {x: -8, y: -37}
+      - {x: -6, y: -41}
+      - {x: -1, y: -42}
+      - {x: -3, y: -43}
+      - {x: -7, y: -40}
+      - {x: -9, y: -39}
+      - {x: -15, y: -47}
+      - {x: -12, y: -48}
+      - {x: 6, y: -48}
+      - {x: 8, y: -47}
+      - {x: 8, y: -19}
+      - {x: 6, y: -16}
+    - - {x: -66, y: -17}
+      - {x: -79, y: -17}
+      - {x: -80, y: -20}
+      - {x: -82, y: -27}
+      - {x: -82, y: -30}
+      - {x: -80, y: -31}
+      - {x: -77, y: -31}
+      - {x: -75, y: -29}
+      - {x: -73, y: -26}
+      - {x: -75, y: -29}
+      - {x: -75, y: -36}
+      - {x: -76, y: -33}
+      - {x: -80, y: -33}
+      - {x: -82, y: -35}
+      - {x: -82, y: -40}
+      - {x: -81, y: -46}
+      - {x: -78, y: -47}
+      - {x: -68, y: -47}
+      - {x: -62, y: -43}
+      - {x: -62, y: -21}
+    - - {x: -142, y: -19}
+      - {x: -146, y: -21}
+      - {x: -146, y: -45}
+      - {x: -139, y: -45}
+      - {x: -134, y: -38}
+      - {x: -134, y: -26}
+      - {x: -140, y: -19}
+    - - {x: -217, y: -22}
+      - {x: -222, y: -27}
+      - {x: -222, y: -37}
+      - {x: -217, y: -42}
+      - {x: -206, y: -42}
+      - {x: -202, y: -39}
+      - {x: -202, y: -27}
+      - {x: -204, y: -22}
+    - - {x: -157, y: 64}
+      - {x: -163, y: 55}
+      - {x: -163, y: 43}
+      - {x: -156, y: 33}
+      - {x: -141, y: 33}
+      - {x: -134, y: 37}
+      - {x: -134, y: 61}
+      - {x: -140, y: 64}
+    - - {x: -224, y: 62}
+      - {x: -228, y: 61}
+      - {x: -238, y: 54}
+      - {x: -238, y: 44}
+      - {x: -232, y: 35}
+      - {x: -208, y: 35}
+      - {x: -202, y: 41}
+      - {x: -202, y: 56}
+      - {x: -208, y: 62}
+    - - {x: -225, y: 321}
+      - {x: -226, y: 320}
+      - {x: -232, y: 300}
+      - {x: -232, y: 254}
+      - {x: -230, y: 239}
+      - {x: -217, y: 239}
+      - {x: -210, y: 244}
+      - {x: -209, y: 247}
+      - {x: -217, y: 237}
+      - {x: -225, y: 236}
+      - {x: -232, y: 235}
+      - {x: -232, y: 160}
+      - {x: -227, y: 159}
+      - {x: -220, y: 159}
+      - {x: -217, y: 162}
+      - {x: -215, y: 173}
+      - {x: -208, y: 166}
+      - {x: -222, y: 156}
+      - {x: -232, y: 146}
+      - {x: -232, y: 78}
+      - {x: -191, y: 78}
+      - {x: -191, y: 315}
+      - {x: -194, y: 321}
+    - - {x: -148, y: 322}
+      - {x: -161, y: 316}
+      - {x: -162, y: 274}
+      - {x: -162, y: 271}
+      - {x: -156, y: 236}
+      - {x: -147, y: 239}
+      - {x: -144, y: 242}
+      - {x: -140, y: 242}
+      - {x: -153, y: 237}
+      - {x: -157, y: 233}
+      - {x: -162, y: 210}
+      - {x: -162, y: 171}
+      - {x: -158, y: 155}
+      - {x: -149, y: 159}
+      - {x: -146, y: 162}
+      - {x: -145, y: 173}
+      - {x: -139, y: 169}
+      - {x: -148, y: 159}
+      - {x: -162, y: 154}
+      - {x: -162, y: 80}
+      - {x: -161, y: 78}
+      - {x: -116, y: 78}
+      - {x: -104, y: 114}
+      - {x: -104, y: 279}
+      - {x: -128, y: 322}
+    - - {x: -63, y: 160}
+      - {x: -80, y: 160}
+      - {x: -91, y: 153}
+      - {x: -91, y: 100}
+      - {x: -90, y: 81}
+      - {x: -79, y: 78}
+      - {x: -77, y: 78}
+      - {x: -76, y: 81}
+      - {x: -76, y: 95}
+      - {x: -76, y: 85}
+      - {x: -75, y: 81}
+      - {x: -74, y: 78}
+      - {x: -55, y: 78}
+      - {x: -55, y: 156}
+      - {x: -56, y: 157}
+    - - {x: -18, y: 78}
+      - {x: 17, y: 78}
+      - {x: 17, y: 145}
+      - {x: 16, y: 156}
+      - {x: 13, y: 160}
+      - {x: -12, y: 160}
+      - {x: -18, y: 157}
+    - - {x: 87, y: 78}
+      - {x: 87, y: 151}
+      - {x: 81, y: 155}
+      - {x: 68, y: 155}
+      - {x: 53, y: 152}
+      - {x: 53, y: 78}
+      - {x: 62, y: 78}
+      - {x: 67, y: 84}
+      - {x: 72, y: 79}
+      - {x: 77, y: 78}
+    - - {x: -57, y: 321}
+      - {x: -87, y: 321}
+      - {x: -90, y: 290}
+      - {x: -90, y: 245}
+      - {x: -85, y: 237}
+      - {x: -75, y: 239}
+      - {x: -68, y: 244}
+      - {x: -67, y: 247}
+      - {x: -75, y: 237}
+      - {x: -83, y: 236}
+      - {x: -90, y: 235}
+      - {x: -90, y: 159}
+      - {x: -86, y: 158}
+      - {x: -76, y: 158}
+      - {x: -75, y: 162}
+      - {x: -68, y: 158}
+      - {x: -49, y: 158}
+      - {x: -49, y: 304}
+      - {x: -51, y: 318}
+    - - {x: -21, y: 288}
+      - {x: -21, y: 238}
+      - {x: 19, y: 238}
+      - {x: 19, y: 278}
+      - {x: 15, y: 315}
+      - {x: 10, y: 320}
+      - {x: -9, y: 320}
+      - {x: -15, y: 319}
+    - - {x: -209, y: 399}
+      - {x: -224, y: 399}
+      - {x: -237, y: 391}
+      - {x: -237, y: 322}
+      - {x: -183, y: 322}
+      - {x: -183, y: 341}
+      - {x: -203, y: 398}
+    - - {x: -112, y: 340}
+      - {x: -120, y: 371}
+      - {x: -126, y: 396}
+      - {x: -143, y: 396}
+      - {x: -155, y: 390}
+      - {x: -167, y: 341}
+      - {x: -167, y: 322}
+      - {x: -155, y: 322}
+      - {x: -151, y: 323}
+      - {x: -146, y: 335}
+      - {x: -126, y: 322}
+      - {x: -112, y: 322}
+    - - {x: -73, y: 393}
+      - {x: -101, y: 357}
+      - {x: -101, y: 322}
+      - {x: -35, y: 322}
+      - {x: -35, y: 393}
+    - - {x: 28, y: 329}
+      - {x: 31, y: 353}
+      - {x: 27, y: 356}
+      - {x: 34, y: 356}
+      - {x: 37, y: 357}
+      - {x: 37, y: 393}
+      - {x: 0, y: 393}
+      - {x: -29, y: 359}
+      - {x: -29, y: 322}
+      - {x: -16, y: 322}
+      - {x: -14, y: 323}
+      - {x: -11, y: 322}
+      - {x: 30, y: 322}
+      - {x: 31, y: 323}
+      - {x: 30, y: 327}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

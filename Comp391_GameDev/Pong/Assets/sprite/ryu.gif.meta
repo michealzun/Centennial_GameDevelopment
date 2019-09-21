@@ -1,0 +1,2288 @@
+fileFormatVersion: 2
+guid: be754823c54095c459a734e7e48224e4
+timeCreated: 1502048815
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ryu_0
+    21300002: ryu_1
+    21300004: ryu_2
+    21300006: ryu_3
+    21300008: ryu_4
+    21300010: ryu_5
+    21300012: ryu_6
+    21300014: ryu_7
+    21300016: ryu_8
+    21300018: ryu_9
+    21300020: ryu_10
+    21300022: ryu_11
+    21300024: ryu_12
+    21300026: ryu_13
+    21300028: ryu_14
+    21300030: ryu_15
+    21300032: ryu_16
+    21300034: ryu_17
+    21300036: ryu_18
+    21300038: ryu_19
+    21300040: ryu_20
+    21300042: ryu_21
+    21300044: ryu_22
+    21300046: ryu_23
+    21300048: ryu_24
+    21300050: ryu_25
+    21300052: ryu_26
+    21300054: ryu_27
+    21300056: ryu_28
+    21300058: ryu_29
+    21300060: ryu_30
+    21300062: ryu_31
+    21300064: ryu_32
+    21300066: ryu_33
+    21300068: ryu_34
+    21300070: ryu_35
+    21300072: ryu_36
+    21300074: ryu_37
+    21300076: ryu_38
+    21300078: ryu_39
+    21300080: ryu_40
+    21300082: ryu_41
+    21300084: ryu_42
+    21300086: ryu_43
+    21300088: ryu_44
+    21300090: ryu_45
+    21300092: ryu_46
+    21300094: ryu_47
+    21300096: ryu_48
+    21300098: ryu_49
+    21300100: ryu_50
+    21300102: ryu_51
+    21300104: ryu_52
+    21300106: ryu_53
+    21300108: ryu_54
+    21300110: ryu_55
+    21300112: ryu_56
+    21300114: ryu_57
+    21300116: ryu_58
+    21300118: ryu_59
+    21300120: ryu_60
+    21300122: ryu_61
+    21300124: ryu_62
+    21300126: ryu_63
+    21300128: ryu_64
+    21300130: ryu_65
+    21300132: ryu_66
+    21300134: ryu_67
+    21300136: ryu_68
+    21300138: ryu_69
+    21300140: ryu_70
+    21300142: ryu_71
+    21300144: ryu_72
+    21300146: ryu_73
+    21300148: ryu_74
+    21300150: ryu_75
+    21300152: ryu_76
+    21300154: ryu_77
+    21300156: ryu_78
+    21300158: ryu_79
+    21300160: ryu_80
+    21300162: ryu_81
+    21300164: ryu_82
+    21300166: ryu_83
+    21300168: ryu_84
+    21300170: ryu_85
+    21300172: ryu_86
+    21300174: ryu_87
+    21300176: ryu_88
+    21300178: ryu_89
+    21300180: ryu_90
+    21300182: ryu_91
+    21300184: ryu_92
+    21300186: ryu_93
+    21300188: ryu_94
+    21300190: ryu_95
+    21300192: ryu_96
+    21300194: ryu_97
+    21300196: ryu_98
+    21300198: ryu_99
+    21300200: ryu_100
+    21300202: ryu_101
+    21300204: ryu_102
+    21300206: ryu_103
+    21300208: ryu_104
+    21300210: ryu_105
+    21300212: ryu_106
+    21300214: ryu_107
+    21300216: ryu_108
+    21300218: ryu_109
+    21300220: ryu_110
+    21300222: ryu_111
+    21300224: ryu_112
+    21300226: ryu_113
+    21300228: ryu_114
+    21300230: ryu_115
+    21300232: ryu_116
+    21300234: ryu_117
+    21300236: ryu_118
+    21300238: ryu_119
+    21300240: ryu_120
+    21300242: ryu_121
+    21300244: ryu_122
+    21300246: ryu_123
+    21300248: ryu_124
+    21300250: ryu_125
+    21300252: ryu_126
+    21300254: ryu_127
+    21300256: ryu_128
+    21300258: ryu_129
+    21300260: ryu_130
+    21300262: ryu_131
+    21300264: ryu_132
+    21300266: ryu_133
+    21300268: ryu_134
+    21300270: ryu_135
+    21300272: ryu_136
+    21300274: ryu_137
+    21300276: ryu_138
+    21300278: ryu_139
+    21300280: ryu_140
+    21300282: ryu_141
+    21300284: ryu_142
+    21300286: ryu_143
+    21300288: ryu_144
+    21300290: ryu_145
+    21300292: ryu_146
+    21300294: ryu_147
+    21300296: ryu_148
+    21300298: ryu_149
+    21300300: ryu_150
+    21300302: ryu_151
+    21300304: ryu_152
+    21300306: ryu_153
+    21300308: ryu_154
+    21300310: ryu_155
+    21300312: ryu_156
+    21300314: ryu_157
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ryu_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1015
+        width: 36
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1015
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1015
+        width: 35
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1015
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_4
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1017
+        width: 30
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1017
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1017
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1017
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_8
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1017
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_9
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1018
+        width: 30
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_10
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1018
+        width: 33
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_11
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1018
+        width: 29
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_12
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1018
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_13
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1018
+        width: 29
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_14
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1018
+        width: 33
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_15
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 940
+        width: 33
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 919
+        width: 30
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_17
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 919
+        width: 37
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_18
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 919
+        width: 37
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_19
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 919
+        width: 32
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_20
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 919
+        width: 31
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_21
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 937
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_22
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 937
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_23
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 937
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_24
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 928
+        width: 30
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_25
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 914
+        width: 33
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_26
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 942
+        width: 61
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_27
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 941
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_28
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 952
+        width: 72
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_29
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 941
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 822
+        width: 37
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_31
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 822
+        width: 53
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_32
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 822
+        width: 37
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_33
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 854
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_34
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 854
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_35
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 854
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_36
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 816
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_37
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 835
+        width: 72
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_38
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 832
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_39
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 845
+        width: 61
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_40
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 824
+        width: 33
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_41
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 716
+        width: 37
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_42
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 716
+        width: 39
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_43
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 716
+        width: 67
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_44
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 716
+        width: 39
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_45
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 779
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_46
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 779
+        width: 86
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_47
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 779
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_48
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 714
+        width: 29
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_49
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 714
+        width: 45
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_50
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 658
+        width: 42
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_51
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 658
+        width: 33
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_52
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 658
+        width: 42
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_53
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 714
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_54
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 723
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_55
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 601
+        width: 37
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_56
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 601
+        width: 44
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_57
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 601
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_58
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 601
+        width: 44
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_59
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 601
+        width: 37
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_60
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 658
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_61
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 618
+        width: 32
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_62
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 618
+        width: 53
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_63
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 618
+        width: 34
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_64
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 577
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_65
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 577
+        width: 69
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_66
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 577
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_67
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 577
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_68
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 577
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_69
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 527
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_70
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 537
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_71
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 537
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_72
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 535
+        width: 43
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_73
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 476
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_74
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 476
+        width: 55
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_75
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 476
+        width: 69
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_76
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 476
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_77
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 476
+        width: 38
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_78
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 475
+        width: 37
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_79
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 475
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_80
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 477
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_81
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 477
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_82
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 477
+        width: 39
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_83
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 373
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_84
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 373
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_85
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 373
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_86
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 395
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_87
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 404
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_88
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 406
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_89
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 407
+        width: 54
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_90
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 408
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_91
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 408
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_92
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 407
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_93
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 408
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_94
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 393
+        width: 7
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_95
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 411
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_96
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 401
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_97
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 399
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_98
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 422
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_99
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 398
+        width: 14
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_100
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 425
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_101
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 404
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_102
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 413
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_103
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 411
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_104
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 416
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_105
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 410
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_106
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 385
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_107
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 352
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_108
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 354
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_109
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 356
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_110
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 356
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_111
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 376
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_112
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 376
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_113
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 359
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_114
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 355
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_115
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 364
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_116
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 359
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_117
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 249
+        width: 47
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_118
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 249
+        width: 49
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_119
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 251
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_120
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 252
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_121
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 252
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_122
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 258
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_123
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 270
+        width: 72
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_124
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 266
+        width: 74
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_125
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 265
+        width: 33
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_126
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 265
+        width: 32
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_127
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 265
+        width: 32
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_128
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 265
+        width: 32
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_129
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 265
+        width: 32
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_130
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 272
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_131
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 116
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_132
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 115
+        width: 28
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_133
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 127
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_134
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 118
+        width: 40
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_135
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 124
+        width: 32
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_136
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 124
+        width: 55
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_137
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 126
+        width: 34
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_138
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 128
+        width: 55
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_139
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 128
+        width: 33
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_140
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 128
+        width: 34
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_141
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 128
+        width: 36
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_142
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 159
+        width: 240
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_144
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 3
+        width: 46
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_145
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 3
+        width: 46
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_146
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 3
+        width: 46
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_147
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 3
+        width: 52
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_148
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 3
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_149
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 3
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_150
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 3
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_151
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 3
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_152
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 3
+        width: 38
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_153
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 3
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_154
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 0
+        width: 38
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_155
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 2
+        width: 31
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_156
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 2
+        width: 28
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ryu_157
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 2
+        width: 35
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

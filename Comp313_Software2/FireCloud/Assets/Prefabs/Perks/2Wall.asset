@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00fea74d95b7b564a848a6da0cb1771c, type: 3}
+  m_Name: 2Wall
+  m_EditorClassIdentifier: 
+  PerkID: 2
+  Name: Wall
+  Description: Place down a wall.
+  Thumbnail: {fileID: 21300000, guid: 3210e0a5b37321846bf026c41bd9263e, type: 3}
+  PerkType: 1
+  BaseCooldown: 3
+  SFXOnCast: {fileID: 8300000, guid: 37db355c5bbc7e04190a507b164e0948, type: 3}
+  Behaviours:
+  - {fileID: 11400000, guid: c9f10e477391f3747991617f38ca1c38, type: 2}
